@@ -1,4 +1,5 @@
 Brave New World
 ===============
 Another theme for my website/blog.
-Now I think it's the final design :)
+The name of this repo is a tribute to the Iron Maiden song.
+Up the Irons!
